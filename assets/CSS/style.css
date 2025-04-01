@@ -1,0 +1,28 @@
+html {
+  font-size: 62.5%;
+}
+
+/* Revert the default font size according to rem */
+body {
+  font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
+}
+
+/*##########################################  */
+a {
+  text-decoration: none;
+}
+
+/*##########################################  */
+.header .body {
+  display: flex;
+}
+
+/* to push them to the top right of header  */
+.nav {
+  margin-left: auto;
+}
+
+.nav ul {
+  display: flex;
+}

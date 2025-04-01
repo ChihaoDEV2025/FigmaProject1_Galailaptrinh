@@ -1,0 +1,30 @@
+1/ Generate file assets:
+    reset.css: sit on the top of css file
+    style.css
+
+    Position of embed file
+        reset file 
+        embed file  
+        style file
+    -> Check font -size: gg font
+
+2/ index
+<body style="height: 1000px"> => make it more long
+      header => meaningful tag => help website can read
+         (not head) + unique
+            body (of header) => cover main content + use flexbox
+                logo
+                nav 
+                button (has various button => being reusable => class="btn btn-sign-up" )
+
+
+
+
+3. css style
+    text-decoration : none => remove hyphen
+
+
+4. tag : 
+   -  alt : 
+        if img is unavailable , it is replaced by words in alt
+        for reading in computers 
